@@ -110,7 +110,7 @@
 163C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\node\Condition.cjs133621433052242140 0
 133C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\anymatch133621436077461515 1
 176C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\credential-management.js133621433073265523 0
-134C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133621440136990020 0
+134C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133621460918010617 0
 163C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\docs\010-introduction.md133621433065590965 0
 134C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\immutable133621436078250814 1
 152C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lightningcss-win32-x64-msvc133621433050089795 1
@@ -230,7 +230,7 @@
 154C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\source-map\lib\source-node.js133621433049934600 0
 156C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\rollup.config.js133621433048177159 0
 162C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\parser133621433109638250 1
-132C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133621372384168861 0
+132C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133621460917630156 0
 173C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data133621433051896818 1
 131C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\braces133621433052377815 1
 174C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133621433065875351 0
@@ -598,7 +598,7 @@
 156C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\test\input\config133621433109352472 1
 173C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-widows-orphans.js133621433074967256 0
 192C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Url.js133621433055746431 0
-116C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist133621440137128104 1
+116C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist133621460918080625 1
 143C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\pack.d.ts133621433070372650 0
 169C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\node_modules\node-addon-api\except.gypi133621433106944203 0
 163C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Combinator.js133621433059249466 0
@@ -6010,5 +6010,5 @@
 138C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.cmd133621433194127875 0
 152C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\update-browserslist-db133621433194127875 0
 127C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.html133621440136979813 0
-138C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133621440137074955 0
 139C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133621440137101835 0
+138C:\Users\alish\Downloads\complete-javascript-course-master\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133621460918070622 0
